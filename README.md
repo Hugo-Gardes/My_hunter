@@ -10,4 +10,4 @@ Le but est de tirer sur des canards afin de faire le plus haut score possible. L
 
 # Lancer le jeu
 Afin de lancer le jeu, il faut tout d'abord être sous Linux ou mac, ensuite, il faut avoir installé la commande make.
-Une fois dans le répertoire lancer la commande make puis exécuter la commande./my_hunter
+Une fois dans le répertoire lancer la commande make puis exécuter la commande ./my_hunter
